@@ -1,0 +1,13 @@
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.exe
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.deps.json
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.runtimeconfig.json
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.runtimeconfig.dev.json
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.dll
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\bin\Debug\netcoreapp3.1\lesson_1.pdb
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.csprojAssemblyReference.cache
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.AssemblyInfoInputs.cache
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.AssemblyInfo.cs
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.csproj.CoreCompileInputs.cache
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.dll
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.pdb
+C:\projects\dotnet_home_work\dotnet_home_work\lesson_1\obj\Debug\netcoreapp3.1\lesson_1.genruntimeconfig.cache
