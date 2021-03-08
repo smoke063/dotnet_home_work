@@ -2,6 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+
 /dotnet_home_work/lesson_1/bin/Debug/netcoreapp3.1
 /dotnet_home_work/.vs/dotnet_home_work/v16
 /dotnet_home_work/.vs/dotnet_home_work/DesignTimeBuild/.dtbcache.v2
@@ -22,3 +23,14 @@
 /lesson-3/phone book/bin/Debug/netcoreapp3.1
 /lesson-3/phone book/obj/Debug/netcoreapp3.1
 /lesson-3/phone book/obj
+
+/dotnet_home_work/lesson_1/bin/*
+/dotnet_home_work/lesson_1/obj/*
+/dotnet_home_work/.vs/*
+/dotnet_home_work/Max_Min_Temperature/bin/*
+/dotnet_home_work/Max_Min_Temperature/obj/*
+/dotnet_home_work/CurrentMonth/bin/*
+/dotnet_home_work/CurrentMonth/obj/*
+/dotnet_home_work/EvenNumber/bin/*
+/dotnet_home_work/EvenNumber/obj/*
+
