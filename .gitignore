@@ -2,6 +2,28 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+
+/dotnet_home_work/lesson_1/bin/Debug/netcoreapp3.1
+/dotnet_home_work/.vs/dotnet_home_work/v16
+/dotnet_home_work/.vs/dotnet_home_work/DesignTimeBuild/.dtbcache.v2
+/dotnet_home_work/CurrentMonth/bin/Debug/netcoreapp3.1
+/dotnet_home_work/CurrentMonth/obj
+/dotnet_home_work/EvenNumber/bin/Debug/netcoreapp3.1
+/dotnet_home_work/EvenNumber/obj
+/dotnet_home_work/Max_Min_Temperature/bin/Debug/netcoreapp3.1
+/dotnet_home_work/Max_Min_Temperature/obj/Debug/netcoreapp3.1
+/dotnet_home_work/Max_Min_Temperature/obj
+/lesson-3/.vs/lesson-3
+/lesson-3/Hello revers/bin/Debug/netcoreapp3.1
+/lesson-3/Hello revers/obj
+/lesson-3/lesson-3/bin/Debug/netcoreapp3.1
+/lesson-3/lesson-3/obj/Debug/netcoreapp3.1
+/lesson-3/lesson-3/obj
+*.user
+/lesson-3/phone book/bin/Debug/netcoreapp3.1
+/lesson-3/phone book/obj/Debug/netcoreapp3.1
+/lesson-3/phone book/obj
+
 /dotnet_home_work/lesson_1/bin/*
 /dotnet_home_work/lesson_1/obj/*
 /dotnet_home_work/.vs/*
@@ -11,3 +33,4 @@
 /dotnet_home_work/CurrentMonth/obj/*
 /dotnet_home_work/EvenNumber/bin/*
 /dotnet_home_work/EvenNumber/obj/*
+
