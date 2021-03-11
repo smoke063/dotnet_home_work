@@ -34,3 +34,10 @@
 /dotnet_home_work/EvenNumber/bin/*
 /dotnet_home_work/EvenNumber/obj/*
 
+/lesson-4/.vs/lesson-4/v16
+/lesson-4/lesson-4/obj
+/lesson-4/lesson-4/bin/Debug/netcoreapp3.1
+/lesson-4/NumbersSeparatedBySpace/bin/Debug/netcoreapp3.1
+/lesson-4/NumbersSeparatedBySpace/obj
+/lesson-4/PartsOfYear/bin/Debug/netcoreapp3.1
+/lesson-4/PartsOfYear/obj
